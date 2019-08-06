@@ -1,0 +1,1169 @@
+[
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564990737460,
+            "changeTime": 1564990737460,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564990737461,
+            "changeTime": 1564990737461,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676171,
+            "changeTime": 1565059676171,
+            "contentHash": "29cceb67419b41567f8aa3fb4848b73bbcc8ef13"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564990737461,
+            "changeTime": 1564990737461,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564990737462,
+            "changeTime": 1564990737462,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564990810850,
+            "changeTime": 1564990810850,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6890,
+            "modifiedTime": 1565059675977,
+            "changeTime": 1565059675977,
+            "contentHash": "98adf747f4b04c7fdf46c7e023333c13aa44666b"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1565059675990,
+            "changeTime": 1565059675990,
+            "contentHash": "49016304a8d35501dcb1222b005f2aad888a1bd4"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1565059676003,
+            "changeTime": 1565059676003,
+            "contentHash": "69da4950bf7e4578420d1dfd44baaa80a3705246"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1565059676016,
+            "changeTime": 1565059676016,
+            "contentHash": "bd4a0e26f57cf0a24ed6144e0290dcf91ba748e1"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2026,
+            "modifiedTime": 1564997398499,
+            "changeTime": 1564997398499,
+            "contentHash": "c7867e1d8c8647bf6312c78186e481fb6fc9713f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2331,
+            "modifiedTime": 1565059676051,
+            "changeTime": 1565059676051,
+            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1564997398505,
+            "changeTime": 1564997398505,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 589,
+            "modifiedTime": 1564997398507,
+            "changeTime": 1564997398507,
+            "contentHash": "ad0ed03da50bdbdca9dbbb43e06577ca1edcc274",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1564997398514,
+            "changeTime": 1564997398514,
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1564997398516,
+            "changeTime": 1564997398516,
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 377,
+            "modifiedTime": 1564997398518,
+            "changeTime": 1564997398518,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1564997398520,
+            "changeTime": 1564997398520,
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2023,
+            "modifiedTime": 1564997398586,
+            "changeTime": 1564997398586,
+            "contentHash": "710b2a7b90d0a2dcc0d5e2c6744574607169a028",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1564997398589,
+            "changeTime": 1564997398589,
+            "contentHash": "c0c0a535bc378420d7ae804f1195e6de33bef4eb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1564997398592,
+            "changeTime": 1564997398592,
+            "contentHash": "d20213c5a36261a97bbefe05867a138be33c8f0e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 310,
+            "modifiedTime": 1564997398594,
+            "changeTime": 1564997398594,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 310,
+            "modifiedTime": 1564997398596,
+            "changeTime": 1564997398596,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 497,
+            "modifiedTime": 1564997398599,
+            "changeTime": 1564997398599,
+            "contentHash": "00344b4aca849ec6030feeb736bf51cbad91d8df",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1564997398601,
+            "changeTime": 1564997398601,
+            "contentHash": "1ef0adbe7b465984dba27403b430e34466621ba3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 503,
+            "modifiedTime": 1564997398604,
+            "changeTime": 1564997398604,
+            "contentHash": "76cd34faa5ab3268cd5c2c5cd9064d8d1666a21b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1564997398606,
+            "changeTime": 1564997398606,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1564997398608,
+            "changeTime": 1564997398608,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1564997398610,
+            "changeTime": 1564997398610,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1564997398613,
+            "changeTime": 1564997398613,
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1564997398616,
+            "changeTime": 1564997398616,
+            "contentHash": "94a1cf3a1855a14ac453918dd94c6942539f1795",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2013,
+            "modifiedTime": 1564997398695,
+            "changeTime": 1564997398695,
+            "contentHash": "b1bec884b4f557864304340904e76e6118c5efb4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 353,
+            "modifiedTime": 1564997398698,
+            "changeTime": 1564997398698,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1564997398700,
+            "changeTime": 1564997398700,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1564997398703,
+            "changeTime": 1564997398703,
+            "contentHash": "3f3cd811c5ea8d4c1cf5efe586ef7b24f27cd65c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1564997398705,
+            "changeTime": 1564997398705,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1564997398707,
+            "changeTime": 1564997398707,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1564997398710,
+            "changeTime": 1564997398710,
+            "contentHash": "94a1cf3a1855a14ac453918dd94c6942539f1795",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1564997398752,
+            "changeTime": 1564997398752,
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9747,
+            "modifiedTime": 1564997398766,
+            "changeTime": 1564997398766,
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9747,
+            "modifiedTime": 1564997398779,
+            "changeTime": 1564997398779,
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9456,
+            "modifiedTime": 1564997398794,
+            "changeTime": 1564997398794,
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9771,
+            "modifiedTime": 1564997398808,
+            "changeTime": 1564997398808,
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space 版面配置.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space 版面配置.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3195,
+            "modifiedTime": 1564997398820,
+            "changeTime": 1564997398820,
+            "contentHash": "74b3ad576798a0435a0e526c777dc3885fbe8c5c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Market__c-Market 版面配置.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Market__c-Market 版面配置.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2902,
+            "modifiedTime": 1564997398833,
+            "changeTime": 1564997398833,
+            "contentHash": "d67ea95ce2b3fcc66af752f2f9e724d6d2cf64e4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation 版面配置.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation 版面配置.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3470,
+            "modifiedTime": 1564997398841,
+            "changeTime": 1564997398841,
+            "contentHash": "5df9b22c6b80a875e7c94d320b2483cb4beff429",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1564997398850,
+            "changeTime": 1564997398850,
+            "contentHash": "dc830859dc207059215c9d10e06fe4ffc8757cc4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1564997398858,
+            "changeTime": 1564997398858,
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10676,
+            "modifiedTime": 1565059676225,
+            "changeTime": 1565059676225,
+            "contentHash": "9c2f55f43045913765edfd18820dbbb4db9547d8"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10672,
+            "modifiedTime": 1565059676248,
+            "changeTime": 1565059676248,
+            "contentHash": "32233128e0cab7c46e315887e5b7e4cd3256136c"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11012,
+            "modifiedTime": 1565059676280,
+            "changeTime": 1565059676280,
+            "contentHash": "a3d42bc920614433778bb9dac8e3b198d3d917e8"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 26775,
+            "modifiedTime": 1565059676309,
+            "changeTime": 1565059676309,
+            "contentHash": "ccc3bbeb324a5e8e9de3f618590ef4ba5730d2f9"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398475,
+            "changeTime": 1564997398475,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398500,
+            "changeTime": 1564997398500,
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676091,
+            "changeTime": 1565059676091,
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676055,
+            "changeTime": 1565059676055,
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398614,
+            "changeTime": 1564997398614,
+            "contentHash": "53a9f8a4b416931e43571f74a0302a3c12346658",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398613,
+            "changeTime": 1564997398613,
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398616,
+            "changeTime": 1564997398616,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398708,
+            "changeTime": 1564997398708,
+            "contentHash": "9c0ce0265d2992e95bbf8671bec19a4b3a35ead0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398707,
+            "changeTime": 1564997398707,
+            "contentHash": "c2cbe8f3fde9cbc9f09b1bcbe678e17432f9fb35",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398710,
+            "changeTime": 1564997398710,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398752,
+            "changeTime": 1564997398752,
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398750,
+            "changeTime": 1564997398750,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676146,
+            "changeTime": 1565059676146,
+            "contentHash": "c766a61feda4e3a6a0955002434224b38b6e0c18"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398858,
+            "changeTime": 1564997398858,
+            "contentHash": "c41fdae87c31cabbf7511f7c1fd8d76bd10ffc03",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1564997398911,
+            "changeTime": 1564997398911,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2373,
+            "modifiedTime": 1565059676321,
+            "changeTime": 1565059676321,
+            "contentHash": "08112f38501def4a54d3d09681398d60c9efd48f"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565055154729,
+            "changeTime": 1565055154729,
+            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1565059676053,
+            "changeTime": 1565059676053,
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1565059676055,
+            "changeTime": 1565059676055,
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1565059676093,
+            "changeTime": 1565059676093,
+            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1565059676096,
+            "changeTime": 1565059676096,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 682,
+            "modifiedTime": 1565059676099,
+            "changeTime": 1565059676099,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 678,
+            "modifiedTime": 1565059676101,
+            "changeTime": 1565059676101,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1565059676103,
+            "changeTime": 1565059676103,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 672,
+            "modifiedTime": 1565059676105,
+            "changeTime": 1565059676105,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1565059676107,
+            "changeTime": 1565059676107,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3198,
+            "modifiedTime": 1565059676146,
+            "changeTime": 1565059676146,
+            "contentHash": "1f19fc5019adac6ec15787c44f7147016b1fbfd4"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1004,
+            "modifiedTime": 1565059676155,
+            "changeTime": 1565059676155,
+            "contentHash": "5bfd9ae4a9a8d44cbf339340de3cb0340b3e3f70"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 983,
+            "modifiedTime": 1565059676163,
+            "changeTime": 1565059676163,
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1565059676173,
+            "changeTime": 1565059676173,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1731,
+            "modifiedTime": 1565059676180,
+            "changeTime": 1565059676180,
+            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1565059676191,
+            "changeTime": 1565059676191,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1805,
+            "modifiedTime": 1565059676198,
+            "changeTime": 1565059676198,
+            "contentHash": "f1fc1869351106405a22725bddf99efc92e4520f"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676095,
+            "changeTime": 1565059676095,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676107,
+            "changeTime": 1565059676107,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676163,
+            "changeTime": 1565059676163,
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+        }
+    ],
+    [
+        "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\JYTU\\dev\\myeslwc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565059676197,
+            "changeTime": 1565059676197,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+        }
+    ]
+]
